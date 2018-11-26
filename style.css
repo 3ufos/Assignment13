@@ -1,0 +1,29 @@
+div{
+	width:531px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.crystals{
+	position:relative;
+	width:531px;
+	height:409px;
+
+}
+
+#top{
+	position:absolute;
+	z-index:100;
+}
+
+#under{
+	width:80%;
+	height:100%;
+	margin:auto;
+	position:absolute;
+	z-index:2;
+}
+
+h4{
+	text-align:center;
+}
